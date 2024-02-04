@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ferdinand Schlatt
     - name: Date of Birth
-      value: 14th March 1879
+      value: 6th September 1995
     - name: Languages
       value: English, German
 
@@ -12,8 +12,8 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Friedrich-Schiller University Jena
+      year: Current
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +21,16 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MSc Intelligent Systems
+      institution: Bielefeld University
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis <a href='/assets/pdf/master-thesis.pdf'>Deep Learning for Event Detection from Sports Broadcast Videos</a>
+    - title: BSc Cognitive Science
+      institution: Osnabrück University
+      year: 2017
+      description:
+        - Thesis <a href='/assets/pdf/bachelor-thesis.pdf'>Prediction of Association Football Results Using Bayesian Neural Networks with Financial and Performance-Based Data</a>
 
 - title: Experience
   type: time_table
@@ -72,18 +76,18 @@
   type: time_table
   contents:
     - year: 1921
-      items: 
-        - Nobel Prize in Physics 
+      items:
+        - Nobel Prize in Physics
         - Matteucci Medal
     - year: 2029
-      items: 
+      items:
         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Topic 1.
-      items: 
+      items:
         - Description 1.
         - Description 2.
     - title: Topic 2.

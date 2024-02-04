@@ -1,6 +1,9 @@
-github_users:
-  - fschlatt
-
 github_repos:
   - fschlatt/minilm-v2
   - webis-de/pytorch-window-matmul
+  - webis-de/ecir24-sparse-cross-encoder
+  - fschlatt/clubs
+  - fschlatt/clubs_gym
+  - interactive-sonification/sc3nb
+  - fschlatt/arm
+  - hbp-unibi/SpikingSudokuSolver
