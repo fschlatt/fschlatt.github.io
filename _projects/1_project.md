@@ -1,11 +1,13 @@
 ---
 layout: page
-title: project 1
+title: matchmetrics
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/matchmetrics-logo.png
 importance: 1
 category: work
 ---
+
+https://web.archive.org/web/20240204175435/https://matchmetrics.com/insights/how-can-i-compare-players-across-competitions-and-countries/
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
