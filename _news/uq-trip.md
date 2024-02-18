@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Visiting the University of Queensland
+title: Visiting the University of Queensland 🇦🇺🦘
 date: 2023-10-16 15:59:00-0400
 inline: false
 related_posts: false
