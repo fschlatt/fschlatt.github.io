@@ -15,12 +15,7 @@
       institution: Friedrich-Schiller University Jena
       year: Current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Improving the efficiency and effectiveness of pre-trained language models for retrieval.
     - title: MSc Intelligent Systems
       institution: Bielefeld University
       year: 2020
