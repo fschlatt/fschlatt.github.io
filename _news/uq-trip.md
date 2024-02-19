@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-I had the pleasure of visiting the University of Queensland in Brisbane, Australia as part of an academic exchange program. My gratitude goes out to <a href="https://scells.me/">Harry Scells</a> and Martin Potthast providing the opportunity to go on the trip and to Guide Zuccon for hosting me at UQ. I had a great time and learned a lot from the visit. Stay tuned for updates on the research I conducted during my stay at UQ.
+I had the pleasure of visiting the University of Queensland in Brisbane, Australia as part of an academic exchange program. My gratitude goes out to <a href="https://scells.me/">Harry Scells</a> and Martin Potthast for providing the opportunity to go on the trip and to Guido Zuccon for hosting me at UQ. I had a great time and learned a lot from the visit. Stay tuned for updates on the research I conducted during my stay at UQ.
 
 ***
 
