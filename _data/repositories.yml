@@ -1,4 +1,5 @@
 github_repos:
+  - webis-de/lightning-ir
   - fschlatt/minilm-v2
   - webis-de/pytorch-window-matmul
   - webis-de/ecir24-sparse-cross-encoder
