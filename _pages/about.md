@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research is focused on using pre-trained transformer-based language models for information retrieval. I am particularly interested in the efficiency of cross-encoders and bi-encoders for retrieval tasks. I am also interested in the application of these models to the biomedical domain.
+My research is focused on using pre-trained transformer-based language models for information retrieval. I am particularly interested in augmenting the attention mechanism to better align with retrieval tasks in order to imporove the effectiveness and/or efficiency of cross-encoders and bi-encoders.
