@@ -1,5 +1,7 @@
 github_repos:
   - webis-de/lightning-ir
+  - webis-de/rank-distillm
+  - webis-de/set-encoder
   - fschlatt/minilm-v2
   - webis-de/pytorch-window-matmul
   - webis-de/ecir24-sparse-cross-encoder
