@@ -11,5 +11,5 @@ It was truly a surprise and an honor to receive both the <a href="../../assets/p
 ***
 
 <div>
-  {% include figure.html path="assets/img/best-paper-ceremony.jpg" title="UQ Logo" class="img-fluid rounded z-depth-1" %}
+  {% include figure.html path="assets/img/best-paper-ceremony.jpg" title="Best Paper Ceremony" class="img-fluid rounded z-depth-1" %}
 </div>
